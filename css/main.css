@@ -80,3 +80,22 @@ body {
 .features .glyphicon {
   font-size: 32px;
 }
+
+/* blog.html */
+.about .fa-rocket{
+  font-size: 32px;
+}
+.posts h1 a {
+  color: #444;
+}
+.meta {
+  margin-bottom: 1em;
+  color: #777;
+  font-size: 12px;
+}
+.meta li {
+  border-right: 1px solid #ddd;
+}
+.meta li:last-child {
+  border-right: none;
+}
